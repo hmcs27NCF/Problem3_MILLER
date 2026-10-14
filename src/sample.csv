@@ -1,0 +1,6 @@
+ProductName,Processor,RAM,Storage,Ingerated,Operating Systems,Price
+Laptop Model A,Intel i5,8,256,,Windows 10,800
+Laptop Model B,Intel i7,16,512,NVIDIA GTX,Windows 10,1500
+Smartphone Model X,Qualcomm Snapdragon,6,128,N/A,Android,999.09
+Smartphone Model Y,Apple A14 Bionic,4,64,N/A,iOS,1099
+SmartpphoneTR,Apple A14 Bionic,15,32,NVIDIA GTX,iOS,2099.99
